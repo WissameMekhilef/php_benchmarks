@@ -1,1 +1,13 @@
+# General MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# PHP Storm
+.idea/*
+
+# Ignore vendor folder
 vendor/**
+
+# Ignore env files
+.env
